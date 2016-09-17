@@ -1,0 +1,6 @@
+name: AutoUHC
+main: AutoUHC\main
+version: 0.1
+api: [0.13.0]
+author: mcpegamerjp
+description: Host UHC's automatically
